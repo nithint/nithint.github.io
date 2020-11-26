@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_drafts
+Thumbs.db
+Desktop.ini
+.DS_Store
+Gemfile.lock
