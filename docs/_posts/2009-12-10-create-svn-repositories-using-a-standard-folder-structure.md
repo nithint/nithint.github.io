@@ -1,6 +1,7 @@
 ---
 title: Create SVN repositories using a standard folder structure
 date: 2009-12-10 22:08:00.000000000 -08:00
+classes: wide
 categories:
 - bash
 - programming

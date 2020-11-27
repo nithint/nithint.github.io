@@ -1,6 +1,7 @@
 ---
 title: GoodBye Google Reader
 date: 2013-03-13 21:38:50.000000000 -07:00
+classes: wide
 categories:
 - programming
 - google

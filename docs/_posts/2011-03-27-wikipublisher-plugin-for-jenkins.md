@@ -1,6 +1,7 @@
 ---
 title: WikiPublisher plugin for jenkins
 date: 2011-03-27 10:56:48.000000000 -07:00
+classes: wide
 categories:
 - programming
 - tools

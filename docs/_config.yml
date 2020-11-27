@@ -75,6 +75,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nithint"
+    - label: "About"
+      url: "/about/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -90,3 +92,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - scripts/
+
+include:
+  - _pages

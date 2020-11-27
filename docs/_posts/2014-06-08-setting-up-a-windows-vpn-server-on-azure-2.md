@@ -1,6 +1,7 @@
 ---
 title: Setting up a Windows VPN Server on Azure
 date: 2014-06-08 18:55:00.000000000 -07:00
+classes: wide
 categories:
 - programming
 - azure

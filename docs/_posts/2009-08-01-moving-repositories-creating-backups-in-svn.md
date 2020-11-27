@@ -1,6 +1,7 @@
 ---
 title: Moving repositories/Creating backups in SVN
 date: 2009-08-01 21:20:00.000000000  -08:00
+classes: wide
 categories:
 - bash
 - programming

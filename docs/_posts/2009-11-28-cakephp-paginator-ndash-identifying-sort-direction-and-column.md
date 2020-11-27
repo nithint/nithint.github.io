@@ -1,6 +1,7 @@
 ---
 title: CakePHP paginator – Identifying sort direction and column
 date: 2009-11-28 22:39:00.000000000 -08:00
+classes: wide
 categories:
 - php
 - programming

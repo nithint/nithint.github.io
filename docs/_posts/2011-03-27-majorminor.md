@@ -1,6 +1,7 @@
 ---
 title: major.minor plugin for Jenkins
 date: 2011-03-27 09:47:00.000000000 -07:00
+classes: wide
 categories:
 - programming
 - tools

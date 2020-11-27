@@ -1,6 +1,7 @@
 ---
 title: Format of SVN access file for Path Based Authorization
 date: 2009-12-17 22:27:00.000000000 -08:00
+classes: wide
 categories:
 - sysadmin
 - svn

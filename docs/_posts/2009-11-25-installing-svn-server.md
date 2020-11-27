@@ -1,6 +1,7 @@
 ---
 title: Installing SVN server
 date: 2009-11-25 22:57:00.000000000  -08:00
+classes: wide
 categories:
 - apache
 - svn

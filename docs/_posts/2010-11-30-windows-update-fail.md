@@ -1,6 +1,7 @@
 ---
 title: Hard drive fail!
 date: 2010-11-30 00:00:00.000000000 -08:00
+classes: wide
 categories:
 - sysadmin
 permalink: "/2010/11/30/windows-update-fail/"

@@ -1,6 +1,7 @@
 ---
 title: Using the AWS flow framework in a Maven project
 date: 2013-09-18 10:08:06.000000000 -07:00
+classes: wide
 categories:
 - programming
 - aop

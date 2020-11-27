@@ -1,6 +1,7 @@
 ---
 title: jQuery Formhints plugin
 date: 2009-11-29 04:56:00.000000000 -08:00
+classes: wide
 categories:
 - javascript
 - programming

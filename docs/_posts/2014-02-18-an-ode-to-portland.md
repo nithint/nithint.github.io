@@ -1,6 +1,7 @@
 ---
 title: An Ode to Portland
 date: 2014-02-18 00:40:03.000000000 -08:00
+classes: wide
 categories:
 - life
 - food

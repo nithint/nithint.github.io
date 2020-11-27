@@ -1,6 +1,7 @@
 ---
 title: How a good day turns bad
 date: 2011-07-18 23:07:01.000000000 -07:00
+classes: wide
 categories:
 - life
 - seattle
