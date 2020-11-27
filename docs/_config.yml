@@ -28,9 +28,11 @@ twitter_username: nithint
 github_username:  nithint
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-include-cache
 
 paginate: 15 # num of posts to show
 paginate_path: /page:num/
