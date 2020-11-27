@@ -32,11 +32,47 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
-paginate: 5 # num of posts to show
+paginate: 15 # num of posts to show
 paginate_path: /page:num/
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale: "en-US"
 repository: nithint/nithint.github.io
+permalink: /:categories/:year/:month/:day/:title/
+excerpt_separator: <!--more-->
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+author:
+  name: "Nithin Thomas"
+  avatar: "https://secure.gravatar.com/avatar/e08fd7cba509c89cf9824cbf5caaa062"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nithint"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nithint"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -46,17 +82,8 @@ repository: nithint/nithint.github.io
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
 exclude:
-    - LICENSE
-    - README.md
-    - Gemfile
-    - Gemfile.lock
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
